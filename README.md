@@ -4,7 +4,8 @@
 Este projeto é um chat bot que integra o modelo de linguagem GPT, como o ChatGPT da OpenAI. O chat bot é capaz de receber mensagens dos usuários, processá-las usando o modelo ChatGPT e fornecer respostas inteligentes e contextuais.
 A versão atual deste projeto utiliza o modelo GPT 3.5 Turbo. 
 
-![image](https://github.com/Shideravan/Chatbot/assets/12163923/d5339620-ca04-411d-b2e4-4871f8b16992)
+![image](https://github.com/Shideravan/Chatbot/assets/12163923/30f3fff2-c493-4975-b076-db693a684d82)
+
 
 ## Requisitos
 
