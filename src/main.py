@@ -16,6 +16,7 @@ class ChatBot:
             "promocoes": promocoes
         }
 
+
     def mostrar_menu(self):
         print("\nATENDIMENTO EMPRESA X\n")
         print("Você pode a qualquer momento escolher uma das opções:")
